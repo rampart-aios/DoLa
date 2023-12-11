@@ -121,7 +121,6 @@ dependencies:
       - seaborn==0.13.0
       - sympy==1.12
       - tokenizers==0.13.3
-      - torch==1.13.1+cu116
       - tqdm==4.66.1
       - transformers==4.28.1
       - triton==2.1.0
